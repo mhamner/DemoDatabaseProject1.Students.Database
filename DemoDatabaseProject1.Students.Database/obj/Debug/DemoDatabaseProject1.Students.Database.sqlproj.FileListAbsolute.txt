@@ -1,0 +1,10 @@
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\bin\Debug\DemoDatabaseProject1.Students.Database.dacpac
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\bin\Debug\DemoDatabaseProject1.Students.Database.dll
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\bin\Debug\DemoDatabaseProject1.Students.Database.pdb
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\DemoDatabaseProject1.Students.Database.sqlprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\Model.xml
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\refactor.xml
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\postdeploy.sql
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\predeploy.sql
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\DemoDatabaseProject1.Students.Database.dll
+C:\Users\mark.hamner\source\repos\DemoDatabaseProject1.Students.Database\DemoDatabaseProject1.Students.Database\obj\Debug\DemoDatabaseProject1.Students.Database.pdb
